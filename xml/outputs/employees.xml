@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee>
+		<address>delhi</address>
+		<age>17</age>
+		<empid>1</empid>
+		<name>ATUL KUMAR</name>
+		<salary>300000.0</salary>
+	</employee>
+	<employee>
+		<address>delhi</address>
+		<age>21</age>
+		<empid>2</empid>
+		<name>ASHUTOSH RAJPUT</name>
+		<salary>300000.0</salary>
+	</employee>
+	<employee>
+		<address>delhi</address>
+		<age>17</age>
+		<empid>3</empid>
+		<name>Dinesh Rajput</name>
+		<salary>300000.0</salary>
+	</employee>
+</employees>
